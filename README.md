@@ -1,13 +1,22 @@
-Customer Churn Prediction using Machine Learning
+# Customer Churn Prediction (Machine Learning)
 
-This project predicts telecom customer churn using:
+This project predicts telecom customer churn using machine learning.
 
-• Logistic Regression
-• Random Forest
-• Scikit-learn Pipeline
+## Tools
+- Python
+- Pandas
+- Scikit-learn
+- Matplotlib
 
-Tools:
-Python, Pandas, Matplotlib, Scikit-learn
+## Models
+- Logistic Regression
+- Random Forest
 
-Goal:
-Predict whether a customer will churn based on usage patterns.
+## Workflow
+1. Data preprocessing
+2. Feature engineering
+3. Model training
+4. Model evaluation
+
+## Goal
+Predict whether a customer will leave a service based on usage data.
